@@ -1,6 +1,4 @@
-<p align="center">
 # 林鍇樺個人履歷 LKH profile
-</p>
 
 ## 林鍇樺
 年資兩年<br>
